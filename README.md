@@ -16,6 +16,10 @@ Installing customized DSZombz under Server "addons" folder
 5. Navigate to your server's Arma 3 folder and open the @DesolationServer\addons\ folder.
 6. Paste the contents copied from Step 4 into this folder.
 	- When prompted, YES to overwrite the file.
+
+Features:
+---
+* Zombies will drop a skeleton container out of the dead zombie, containing random loot.
 	
 Support the developer
 ---
